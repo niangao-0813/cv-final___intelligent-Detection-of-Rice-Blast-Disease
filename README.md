@@ -218,20 +218,14 @@ Fork本仓库
 🙏 致谢
 澳门科技大学计算机科学系提供支持
 
-感谢导师[姓名]教授的指导
-
-感谢提供田间数据的当地农民
-
 Ultralytics团队提供的YOLOv11框架
 
 📞 联系方式
 如有问题或建议，请通过以下方式联系我们：
 
-项目维护者：Hao Zou (邹浩)
 
-邮箱：your.email@example.com
+邮箱：zousooobin0508@gmail.com
 
-GitHub Issues：链接
 
 学术合作：欢迎相关领域研究者联系合作
 
